@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center" style="color:#00DDB3">✨ ¡Hi! Iḿ Yaiza Anido</h2>
+<h2 align="center" style="color:#00DDB3">✨ ¡Hi! I'm Yaiza Anido</h2>
 
 <p align="center" style="color:#ffffff; font-size:16px;">
 Junior Bioinformatician with focus on metagenomic and transcriptomic data analisis and pipeline development, biostatistics, AI aplicacions and data analysis in healthcare. 
