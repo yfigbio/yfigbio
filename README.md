@@ -53,12 +53,13 @@ Junior Bioinformatician with focus on metagenomic and transcriptomic data analis
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yfigbio&show_icons=true&theme=tokyonight&title_color=00DDB3&icon_color=9D5DFF&text_color=ffffff&bg_color=1F0F3F" />
+  <img src="https://github-readme-stats-gold-eta-49.vercel.app/api?username=yfigbio&show_icons=true&theme=tokyonight&title_color=00DDB3&icon_color=9D5DFF&text_color=ffffff&bg_color=1F0F3F" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfigbio&layout=compact&theme=tokyonight&title_color=00DDB3&text_color=ffffff&bg_color=1F0F3F"/>
+  <img src="https://github-readme-stats-gold-eta-49.vercel.app/api/top-langs/?username=yfigbio&layout=compact&theme=tokyonight&title_color=00DDB3&text_color=ffffff&bg_color=1F0F3F"/>
 </p>
+
 
 ---
 
