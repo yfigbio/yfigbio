@@ -61,7 +61,7 @@ Junior Bioinformatician with focus on metagenomic and transcriptomic data analis
 
 <p align="center">
   <a href="mailto:2yaizaanido000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yfigbio@gmail.com-9D5DFF?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-2yaizaanido000@gmail.com-9D5DFF?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tu_usuario/">
     <img src="https://img.shields.io/badge/LinkedIn-Yaiza_Anido-00DDB3?style=flat-square&logo=linkedin&logoColor=white" />
